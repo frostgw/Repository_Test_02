@@ -6,4 +6,5 @@ Book Test 03.
 
 Book Test 04.
 
-This is an edit of Book 05.
+This is an edit of Book 04.
+This book was edited on 10/28/16. It is Friday.
